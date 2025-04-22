@@ -1,0 +1,6 @@
+# Required modules
+
+tkinter
+math
+os
+random
